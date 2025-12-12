@@ -6,8 +6,7 @@
     "orientation": "portrait",
     "platforms": ["android"],
     "android": {
-      "package": "com.burak.belttension"
-    },
-
+      "package": "com.kaya.belttension"
     }
+  }
 }
