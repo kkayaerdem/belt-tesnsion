@@ -8,11 +8,7 @@
     "android": {
       "package": "com.burak.belttension"
     },
-    "extra": {
-      "eas": {
-        "projectId": "b851c420"
-      }
-    },
+
     "cli": {
       "appVersionSource": "remote"
     }
