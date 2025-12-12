@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Belt Tension",
+    "slug": "belt-tension",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.burak.belttension"
+    }
+  }
+}
