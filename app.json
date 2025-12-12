@@ -9,8 +9,5 @@
       "package": "com.burak.belttension"
     },
 
-    "cli": {
-      "appVersionSource": "remote"
     }
-  }
 }
