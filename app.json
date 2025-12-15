@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Belt Tension",
-    "slug": "belt-tension",
+    "slug": "belttension",
     "version": "1.0.0",
     "orientation": "portrait",
     "platforms": ["android"],
