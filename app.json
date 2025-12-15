@@ -6,7 +6,11 @@
     "orientation": "portrait",
     "platforms": ["android"],
     "android": {
-      "package": "com.kaya.belttension"
+      "package": "com.kaya.belttension",
+      "gradleVersion": "8.7"
+    },
+    "ios": {
+      "bundleIdentifier": "com.kaya.belttension"
     },
     "extra": {
       "eas": {
